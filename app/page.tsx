@@ -21,7 +21,7 @@ export default function Home() {
     <div className="grid" style={style}>
       <div className="center padding-2 text-xl">
         <span>
-        <h1 style={{ fontSize: '60px' }}>Iska's page</h1>
+        <h1 style={{ fontSize: '60px' }}>The page of Iska</h1>
         <br></br>hi, this is me and my dog, Arty
         </span>
       </div>
